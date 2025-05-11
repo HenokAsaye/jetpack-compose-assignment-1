@@ -1,4 +1,4 @@
-package com.example.My_Application.ui.screens
+package com.example.myapplication.ui.screens
 
 
 import androidx.compose.foundation.layout.*
@@ -8,8 +8,8 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.My_Application.model.Course
-import com.example.My_Application.ui.components.CourseCard
+import com.example.myapplication.model.Course
+import com.example.myapplication.ui.components.CourseCard
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
