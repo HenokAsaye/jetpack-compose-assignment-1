@@ -1,4 +1,4 @@
-package com.example.My_Application.ui.components
+package com.example.myapplication.ui.components
 
 
 import androidx.compose.animation.animateContentSize
@@ -10,7 +10,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
-import com.example.My_Application.model.Course
+import com.example.myapplication.model.Course
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
