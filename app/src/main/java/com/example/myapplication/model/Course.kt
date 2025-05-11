@@ -1,4 +1,4 @@
-package com.example.My_Application.model
+package com.example.myapplication.model
 
 data class Course(
     val id: String,
